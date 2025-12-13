@@ -1,7 +1,0 @@
-/home/kolya/projects/advent-of-code/2015/d1/build/CMakeFiles/d1.dir
-/home/kolya/projects/advent-of-code/2015/d1/build/CMakeFiles/edit_cache.dir
-/home/kolya/projects/advent-of-code/2015/d1/build/CMakeFiles/rebuild_cache.dir
-/home/kolya/projects/advent-of-code/2015/d1/build/CMakeFiles/list_install_components.dir
-/home/kolya/projects/advent-of-code/2015/d1/build/CMakeFiles/install.dir
-/home/kolya/projects/advent-of-code/2015/d1/build/CMakeFiles/install/local.dir
-/home/kolya/projects/advent-of-code/2015/d1/build/CMakeFiles/install/strip.dir

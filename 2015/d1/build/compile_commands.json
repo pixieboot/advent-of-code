@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/kolya/projects/advent-of-code/2015/d1/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/d1.dir/main.cpp.o -c /home/kolya/projects/advent-of-code/2015/d1/main.cpp",
-  "file": "/home/kolya/projects/advent-of-code/2015/d1/main.cpp",
-  "output": "CMakeFiles/d1.dir/main.cpp.o"
-}
-]
