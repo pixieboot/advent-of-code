@@ -1,0 +1,64 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x04\x00d\x001)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/kolya/projects/advent-of-code/2015/d1/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Clazy]
+checks=level2
+
+[Cppcheck]
+checkStyle=true
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute,debug
+Configured Launchers=nativeAppLauncher,gdb
+Name=d1
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Break on Start=false
+Debugger Shell=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x04\x00d\x001\x00\x00\x00\x04\x00d\x001)
+Dependency Action=Build
+Display Demangle Names=true
+Display Static Members=true
+EnvironmentGroup=
+Executable=
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+GDB Path=file:///usr/bin/gdb
+Kill Before Executing Again=4194304
+LLDB Arguments=
+LLDB Config Script=
+LLDB Environment=
+LLDB Executable=file:///usr/bin/lldb-mi
+LLDB Inherit System Env=true
+LLDB Remote Debugging=false
+LLDB Remote Path=
+LLDB Remote Server=
+Project Target=d1,d1
+Remote GDB Config Script=
+Remote GDB Run Script=
+Remote GDB Shell Script=
+Start With=ApplicationOutput
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=
