@@ -10,14 +10,11 @@ int main() {
     bool entered = false;
 
     for(int i = 0; i < c.size(); i++) {
-        if(c[i] == ')')
-        {
-            if(counter == -1 && entered == false) {
-                std::cout << "Santa entered the basement at position: " << i << '\n';
-                entered = true;
-            }
-            counter--;
+        if(counter == -1 && entered == false) {
+            std::cout << "Santa entered the basement at position: " << i << '\n';
+            entered = true;
         }
+        if(c[i] == ')') counter--;
         else counter++;
     }
     std::cout << "Floor: " << counter << '\n';
